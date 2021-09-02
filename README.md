@@ -12,8 +12,8 @@ calibre - E-book management
 # 開放字型
   (TBA)
 
-# 小貼士
-  (TBA)
+# 小貼士，筆記，教學
+- [Calibre 設定](calibre_configs.md)
 
 # 設備介紹
   (TBA)
